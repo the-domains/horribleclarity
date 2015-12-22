@@ -1,0 +1,28 @@
+name: HorribleClarity
+favicon: null
+layout_spectrum: 0.7362623710650951
+typography_spectrum: 0.790613153250888
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.9055584922898561
+  lightness: 0.30078439484350383
+  saturation: 0.4282793030142784
+  rhythmicContrast: 0.8329455337952822
+purpose: []
